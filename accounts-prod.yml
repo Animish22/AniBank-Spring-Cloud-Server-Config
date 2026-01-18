@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to AniBank accounts Prod Profile APIs "
   contactDetails:
     name: "Animish Sharma Prod - Developer"
-    email: "animishharitash@gmail.com"
+    email: "{cipher}0290766a91253c5de21703b55350e0628a4b398d02f60246381a867e3e502fb5ccdd49d0f08db0774a1dcd529fdb0921"
   onCallSupport:
     - (91) 986-1234
     - (91) 731-1234
