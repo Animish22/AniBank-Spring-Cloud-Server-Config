@@ -2,10 +2,10 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs "
+  message: "Welcome to AniBank accounts QA Profile APIs "
   contactDetails:
-    name: "Smitha Ray - QA Lead"
-    email: "smitha@eazybank.com"
+    name: "Animish Sharma QA - Developer"
+    email: "animishharitash@gmail.com"
   onCallSupport:
-    - (666) 265-3765
-    - (666) 734-8371
+    - (91) 886-1234
+    - (91) 631-1234
