@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to AniBank cards Production APIs "
+  message: "Welcome to AniBank cards Production Webhook APIs "
   contactDetails:
     name: "Animish Sharma- Developer"
     email: "{cipher}0290766a91253c5de21703b55350e0628a4b398d02f60246381a867e3e502fb5ccdd49d0f08db0774a1dcd529fdb0921"
