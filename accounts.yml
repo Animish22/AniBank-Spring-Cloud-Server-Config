@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to AniBank accounts APIs "
+  message: "Welcome to AniBank accounts docker APIs "
   contactDetails:
     name: "Animish Sharma - Developer"
     email: "animishharitash@gmail.com"
